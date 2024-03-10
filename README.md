@@ -1,7 +1,11 @@
 # Tripy-Commands
 
-- **netstat -ano | findstr "LISTENING"** <br />
+```sh
+netstat -ano | findstr "LISTENING"
+```
 To get all the open ports in your system (Windows)
 
-- **git rm --cached -r .** <br />
+```sh 
+git rm --cached -r .
+```
 To remove all files from staged area (Git)
